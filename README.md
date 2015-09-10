@@ -54,7 +54,7 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 
  [Basic Content Management System](http://msblog-guildwork.rhcloud.com/) 
  
-> This application was developed as a group project with three other people. The goal of the project was to enable a small business owner or hobbyist to create their own website/blog without having to write any code (i.e. redesign WordPress from scratch).  The site admin needed to be able to create and edit both static web pages and blog posts using a WYSIWYG editor.  
+> This application was developed as a group project with three other people. The goal of the project was to enable a small business owner or hobbyist to create their own website/blog without having to write any code (i.e. redesign WordPress from scratch).  The site admin would need to be able to create and edit both static web pages and blog posts using a WYSIWYG editor.  
 > 
 > Planning:
 > To prepare for collaborative work on a more complex application we developed planning documents that included a UML diagram, wireframes, and a database schema. We also created user stories in Trello to assist us developing the project in an Agile manner.
@@ -72,9 +72,9 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 > password: password
 > 
 > Project Management:
-> The project management on a project like this was one of the more challenging aspects of the project, since it was a self-managing group and we spent a fair amount of our time working on communicating, merging, etc. But we got a basic implementation of the project finished, and will continue to implement the remaining features (e.g. the ability to add hashtags, comments, categories, search, etc.) over time.
+> The project management on a group project like this was one of the more challenging aspects of the work, since it was a self-managing group and we spent a fair amount of our shared time on communicating, merging, etc. But we got a basic implementation of the project finished, and we will continue to implement the remaining features over time (e.g. the ability to add hashtags, comments, categories, search, etc.).
 > 
-> Here is the code for the project: [link]
+> Here is [code](https://bitbucket.org/maere/cmssource) as it is in it's current state.
 
 
 ----------
@@ -82,6 +82,6 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 
 These apps represent some of my early forays using Java to code  the backend and middle tiers. I also dove fairly deeply into AJAX and jQuery.  
 
-I am currently interested in exploring the mobile space. I have a workshop on iOS at the end of September, which I plan to follow up with the development of my first mobile app in either iOS and/or Android.  Stay tuned! 
+I am currently interested in exploring the mobile space. I am planning on taking an Android course and I am signed up for a workshop on iOS at the end of September.  So my goal is to have my first mobile app in the works  this fall.  Stay tuned! 
 
 
