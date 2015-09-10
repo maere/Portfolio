@@ -82,6 +82,6 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 
 These apps represent some of my early forays using Java to code  the backend and middle tiers. I also dove fairly deeply into AJAX and jQuery.  
 
-I am currently interested in exploring the mobile space. I am planning on taking an Android course and I am signed up for a workshop on iOS at the end of September.  So my goal is to have my first mobile app in the works  this fall.  Stay tuned! 
+I am currently interested in exploring the mobile space. I am planning on taking an Android course and I am also signed up for a workshop on iOS at the end of September. So my goal is to have my first mobile app in the works this fall.  Stay tuned! 
 
 
