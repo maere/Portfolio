@@ -1,6 +1,4 @@
 
-
-
 # Portfolio
 
 Below are links to web apps that I coded using Java and Spring on the backend, and Javascript, HTML and CSS on the front end.  These project represent just a portion of the work I did at the Software Craftsmanship Guild.  Some of the projects below were worked on solo, some were developed with a pairing partner, and the last one was a group effort.  These details are noted below each project link along with a link to the source code.  
@@ -13,15 +11,15 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 
 > This was the first MVC web app I built. I refactored a bunch of calculators that I originally developed as console apps and combined them into a web app with a basic front end.  All work on this project is mine. 
 > 
-> Here is the source code [link coming]
+> Here is the [source code](https://bitbucket.org/maere/multicalculatorapp) for the web app.
 
-> (Note: The loan amortization got messed up when I refactored and this needs to be fixed. But here is a link [link coming] to the original console app which actually outputs the correct calculations!)
+> (Note: The loan amortization got messed up when I refactored and this needs to be fixed. But here is a [link to the original console app source](https://bitbucket.org/maere/loaninterestcalculator) which actually outputs the correct calculations!)
 
 
 ----------
 
 
- Flooring Master Console App 
+ [Flooring Master Console App](https://bitbucket.org/maere/flooringmastery) 
 
 > This is a console-based order processing app that persists its data to a text file.  Since this was designed to run in the console, it has no front end currently, but you can view the source code from the link below. 
 > 
@@ -29,11 +27,13 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 > 
 > -  deciding on the data structures we should use
 > - deciding when and where we needed to instantiate our data structures
-> - how the classes should relate to each other and how the application should be constructed.  
+> - how the classes should relate to each other and how the application should be constructed
+> - making sure all of our unit tests passed after each refactoring iteration
 > 
 > We learned a lot!
 > 
-> Here is the code: [link coming]
+> Here is the [code.](https://bitbucket.org/maere/flooringmastery)
+> 
 
 
 ----------
@@ -45,7 +45,7 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 > 
 > This app was a really fun one to work on, as my pairing partner was hilarious. So we managed to learn a lot and have fun at the same time. That is actually my ideal work environment. 
 > 
-> Here is the code for the project: [link coming]
+> Here is the [code](https://bitbucket.org/maere/addressbook) for the project. (You can see a palimpsest of sorts for previous iterations of the code as code that was commented out.)
 > 
 
 
@@ -83,4 +83,5 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 These apps represent some of my early forays using Java to code  the backend and middle tiers. I also dove fairly deeply into AJAX and jQuery.  
 
 I am currently interested in exploring the mobile space. I have a workshop on iOS at the end of September, which I plan to follow up with the development of my first mobile app in either iOS and/or Android.  Stay tuned! 
+
 
