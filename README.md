@@ -1,4 +1,5 @@
 
+
 # Portfolio
 
 Below are links to web apps that I coded using Java and Spring on the backend, and Javascript, HTML and CSS on the front end.  These project represent just a portion of the work I did at the Software Craftsmanship Guild.  Some of the projects below were worked on solo, some were developed with a pairing partner, and the last one was a group effort.  These details are noted below each project link along with a link to the source code.  
@@ -54,7 +55,7 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 
  [Basic Content Management System](http://msblog-guildwork.rhcloud.com/) 
  
-> This application was developed as a group project with three other people. The goal of the project was to enable a small business owner or hobbyist to create their own website/blog without having to write any code (i.e. redesign WordPress from scratch).  The site admin would need to be able to create and edit both static web pages and blog posts using a WYSIWYG editor.  
+> This application was developed as a group project with three other people. The goal of the project was to enable a small business owner or hobbyist to create their own website/blog without having to write any code.  The site admin would need to be able to create and edit both static web pages and blog posts using a WYSIWYG editor.  
 > 
 > Planning:
 > To prepare for collaborative work on a more complex application we developed planning documents that included a UML diagram, wireframes, and a database schema. We also created user stories in Trello to assist us developing the project in an Agile manner.
@@ -80,8 +81,6 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 ----------
 
 
-These apps represent some of my early forays using Java to code  the backend and middle tiers. I also dove fairly deeply into AJAX and jQuery.  
+These apps represent some of my initial forays using Java to code  the backend and middle tiers, as well as working in the full stack with Ajax and jQuery.  
 
-I am currently interested in exploring the mobile space. I am planning on taking an Android course and I am also signed up for a workshop on iOS at the end of September. So my goal is to have my first mobile app in the works this fall.  Stay tuned! 
-
-
+After cleaning and tightening up some of the work shown here, I want to start exploring the mobile space. I am enrolled in a workshop on iOS at the end of September, and I plan to start work on a personal project that is a mobile app over the next few months. So stay tuned!
