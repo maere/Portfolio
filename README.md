@@ -53,7 +53,7 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 ----------
 
 
- [Basic Content Management System]
+ Basic Content Management System
  
 > This application was developed as a group project with three other people. The goal of the project was to enable a small business owner or hobbyist to create their own website/blog without having to write any code.  The site admin would need to be able to create and edit both static web pages and blog posts using a WYSIWYG editor.  
 > 
