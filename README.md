@@ -40,13 +40,13 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 ----------
 
 
- Address Book App 
+ [Address Book App](http://addressbook-guildwork.rhcloud.com/) 
 
 > This is a basic address book application that allows you to add someone's street address and phone number. Strangely, it has no field for an email address. For this reason, my pairing partner and I decided to make it a "vintage" address book.   (Entertaining ourselves with irony.) We used Bootstrap for the layout and it currently runs with only an in-memory implementation (i.e. it has no database hooked up). 
 > 
 > This app was a really fun one to work on, as my pairing partner was hilarious. So we managed to learn a lot and have fun at the same time. That is actually my ideal work environment. 
 > 
-> Here is the [code](https://bitbucket.org/maere/addressbook) for the project. (You can see a palimpsest of sorts for previous iterations of the code as code that was commented out.)
+> Here is the [code](https://github.com/maere/addressbooklocal) for the project. (You can see a palimpsest of sorts for previous iterations of the code as code that was commented out.)
 > 
 
 
@@ -84,3 +84,4 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 These apps represent some of my initial forays using Java to code  the backend and middle tiers, as well as working in the full stack with Ajax and jQuery.  
 
 After cleaning and tightening up some of the work shown here, I want to start exploring the mobile space. I am enrolled in a workshop on iOS at the end of September, and I plan to start work on a personal project that is a mobile app over the next few months. So stay tuned!
+
