@@ -48,7 +48,7 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 > 
 > Here is the [code](https://github.com/maere/addressbooklocal) for the project. (You can see a palimpsest of sorts for previous iterations of the code as code that was commented out.)
 > 
-> Notes:  We originally wrote a basic search implementation, and later refactored search to use lambdas.  But when I went to deploy the app, it was restricted to Java 7 and our search function was unsupported, since lambdas only work in Java 8.  The search function will need to be refactored to work in this deployment environment.
+> Note:  We originally wrote a basic search implementation, and later refactored search to use lambdas.  But when I went to deploy the app, it was restricted to Java 7 and our search function was unsupported, since lambdas only work in Java 8.  The search function will need to be refactored to work in this deployment environment.
 
 
 ----------
