@@ -42,12 +42,13 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 
  [Address Book App](http://addressbook-guildwork.rhcloud.com/) 
 
-> This is a basic address book application that allows you to add someone's street address and phone number. Strangely, it has no field for an email address. For this reason, my pairing partner and I decided to make it a "vintage" address book.   (Entertaining ourselves with irony.) We used Bootstrap for the layout and it currently runs with only an in-memory implementation (i.e. it has no database hooked up). 
+> This is a basic address book application that allows you to add someone's street address and phone number. Strangely, it has no field for an email address (this was not a requirement). For this reason, my pairing partner and I decided to make it a "vintage" address book.   (Entertaining ourselves with irony.) We used Bootstrap for the layout.
 > 
 > This app was a really fun one to work on, as my pairing partner was hilarious. So we managed to learn a lot and have fun at the same time. That is actually my ideal work environment. 
 > 
 > Here is the [code](https://github.com/maere/addressbooklocal) for the project. (You can see a palimpsest of sorts for previous iterations of the code as code that was commented out.)
 > 
+> Notes:  We originally wrote a basic search implementation, and later refactored search to use lambdas.  But when I went to deploy the app, it was restricted to Java 7 and our search function was unsupported, since lambdas only work in Java 8.  The search function will need to be refactored to work in this deployment environment.
 
 
 ----------
