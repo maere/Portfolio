@@ -48,7 +48,7 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 > 
 > Here is the [code](https://github.com/maere/addressbooklocal) for the project. You can see a palimpsest of sorts in the comments where previous iterations of the code were commented out as the code was refactored from a console app, to a Spring servlet app using JSTL, to an Ajax app (in-memory), to its final database implementation. 
 > 
-> Note:  Our most ajax search implementation uses lambdas, and when I went to deploy the app, I found out that our search function was unsupported by the cloud host, since lambdas only work in Java 8 and the deployment environment only supported Java 7.  So the search function will need to be refactored to work in this particular deployment environment.
+> Note:  Our search implementation uses lambdas, and when I went to deploy the app, I found out that Java 1.8 was not supported by the cloud host. So since lambdas only work in Java 8 the search function will need to be refactored to work in this particular deployment environment, or we will need to redeploy on another server to show that functionality.  You can look for it in the source code though.
 
 
 ----------
