@@ -54,7 +54,7 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 ----------
 
 
- [Basic Content Management System (source code)] (https://bitbucket.org/maere/cmssource)
+ [Basic Content Management System] (http://msblog-guildwork.rhcloud.com/home)
  
 > This application was developed as a group project with three other people. The goal of the project was to enable a small business owner or hobbyist to create their own website/blog without having to write any code.  The site admin would need to be able to create and edit both static web pages and blog posts using a WYSIWYG editor.  
 > 
@@ -68,10 +68,7 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 > The WYSIWYG functionality was created by using the plugin TinyMCE. We also implemented the ability to add and store images into the database via a byte array, and used Spring Security for the admin login.  
 > 
 > **Testing:**
-> We wrote unit tests for our DAO, and you can test the app as well by signing in as a test user when you get the login prompt:
-
-> user: test
-> password: password
+> We wrote unit tests for our DAO, which you can view in the source code below.
 > 
 > **Project Management:**
 > The project management on a group project like this was one of the more challenging aspects of the work, since it was a self-managing group and we spent a fair amount of our shared time on communicating, merging, etc. But we got a basic implementation of the project finished, and we will continue to implement the remaining features over time (e.g. the ability to add hashtags, comments, categories, search, etc.).
@@ -84,6 +81,5 @@ Below are links to web apps that I coded using Java and Spring on the backend, a
 
 These apps represent some of my initial forays using Java to code  the backend and middle tiers, as well as working in the full stack with Ajax and jQuery.  
 
-After cleaning and tightening up some of the work shown here, I want to start exploring the mobile space. I am enrolled in a workshop on iOS at the end of September, and I plan to start work on a personal project that is a mobile app over the next few months. So stay tuned!
-
+Over the past 6 weeks I've been learning about deployment, Python and RegEx and have enrolled in a class in advanced data structures in preparation for future challenges!
 
