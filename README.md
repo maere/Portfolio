@@ -2,7 +2,13 @@
 
 # Portfolio
 
-This page represents some of the work I did at the Software Guild. (For what I've been working on most recently, look at my main GitHub profile.) At the Guild, we were continually refactoring as we learned new skills: we started with console apps, moved to Model I web apps, then to Model II web apps, to a local database app using MySQL. So the projects below are all coded using Java and Spring on the backend. Also, these project represent just a portion of the work I did at the Guild. Some of the projects were solo, some were developed with a pairing partner, and our final project was a group effort. These details are noted below each project link along with a link to the source code. Lastly, we did not learn deployment, so I have been working through deployment on my own. 
+This page represents some of the work I did at the Software Guild. (For what I've been working on most recently, look at my main GitHub profile.) The projects below are all coded using Java and Spring on the backend. 
+
+At the Guild, we were continually refactoring as we learned new skills: we started with console apps, moved to Model I web apps, then to Model II web apps, then learned how to connect our apps to a local databases we built in MySQL. 
+
+These project represent just a portion of the work I did at the Guild, and some of the projects represent solo work, some were developed with a pairing partner, and our final project was a group effort. These details are noted below along with a link to the source code. 
+
+Lastly, we did not learn deployment, so I have been working through deployment on my own. Hence I found out after the fact that search doesn't work on my address book because OpenShift v2 only works with Java 7, not Java 8--so all the lambdas we wrote for search aren't recognized in the deployment environment. So this is on my list of thigns to be rectified.
 
 ----------
 
