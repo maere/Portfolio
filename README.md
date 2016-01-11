@@ -8,7 +8,7 @@ At the Guild, we were continually refactoring as we learned new skills: we start
 
 These projects represent just a portion of the work I did at the Guild, and some of the projects represent solo work, some were developed with a pairing partner, and our final project was a group effort. These details are noted below along with a link to the source code. 
 
-Lastly, we did not learn deployment, so I have been working through deployment on my own. Hence I found out after the fact that search doesn't work on my address book because OpenShift v2 only works with Java 7, not Java 8--so all the lambdas we wrote for search aren't recognized in the deployment environment. So this is on my list of thigns to be rectified.
+Lastly, we did not learn deployment, so I have been working through deployment on my own. Hence I found out after the fact that search doesn't work on my address book because OpenShift v2 only works with Java 7, not Java 8--so all the lambdas we wrote for search aren't recognized in the deployment environment. So this has been added to my long list of things to be rectified.
 
 ----------
 
